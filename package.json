@@ -1,7 +1,7 @@
 {
-  "name": "passport-jwt",
+  "name": "passport-multijwt",
   "version": "2.1.0",
-  "description": "Passport authentication strategy using JSON Web Tokens",
+  "description": "Passport authentication strategy using Multiple JSON Web Tokens",
   "main": "./lib",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec --require test/bootstrap test/*test.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/themikenicholson/passport-jwt.git"
+    "url": "https://github.com/maciekrb/passport-multijwt.git"
   },
   "keywords": [
     "Passport",
