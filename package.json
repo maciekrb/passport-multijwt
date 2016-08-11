@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "jsonwebtoken": "^5.0.0",
+    "lodash": "^4.14.2",
     "passport-strategy": "^1.0.0"
   }
 }
